@@ -1,0 +1,47 @@
+*{
+    box-sizing: border-box;
+}
+
+body {
+    background-color: rgb(255, 255, 255);
+    margin: 5%;
+    width: 90%;
+    height: 90%;
+ 
+}
+
+#text1 {
+    background-color:rgb(151, 232, 235);
+    height: 75px;
+    width: 70%;
+    float: right;
+}
+
+#text2 {
+    background-color: rgb(255, 253, 138);
+    height: 425px;
+    width: 70%;
+    float:inline-end;
+}
+
+#text3 {
+    background-color: rgb(255, 186, 161);
+    height: 75px;
+    width: 70%;
+    float: left;
+}
+
+#img1 {
+    background-color: rgb(154, 227, 154);
+    height: 500px;
+    width: 30%;
+    float: left, inline-start;
+    
+}
+
+#img2 {
+background-color: rgb(235, 135, 235);
+height: 75px;
+width: 30%;
+float: right
+}
